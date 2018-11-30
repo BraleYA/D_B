@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "368297115530",
+    "firebase_url": "https://deposit-bank-1511.firebaseio.com",
+    "project_id": "deposit-bank-1511",
+    "storage_bucket": "deposit-bank-1511.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368297115530:android:c643266b4f6e7d9e",
+        "android_client_info": {
+          "package_name": "by.example.deposit_bank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368297115530-qg9a5etvd7jpn8j5itsa38712cshha22.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "by.example.deposit_bank",
+            "certificate_hash": "8169af25fc4e9ab40ec1cb823a4c5ea52303cbea"
+          }
+        },
+        {
+          "client_id": "368297115530-k76lunp5h34rk1vfedq9d165bttsjao9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk6diHoYgzWvd_RBL7zESGNCEc3t01Ugs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368297115530-k76lunp5h34rk1vfedq9d165bttsjao9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

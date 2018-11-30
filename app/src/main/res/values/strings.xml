@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Банк</string>
+
+    <string name="title_activity_profile">Profile</string>
+    <string name="New_account"><u>Создать аккаунт</u></string>
+
+    <string name="zero">00</string>
+    <string name="usdtxt">USD</string>
+    <string name="eurtxt">EUR</string>
+    <string name="rustxt">RUS</string>
+    <string name="byntxt">BYN</string>
+    <string name="convert">Обновить</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
