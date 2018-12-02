@@ -46,6 +46,7 @@ public class MainActivity extends AppCompatActivity {
                     buffer.append("Id :"+ res.getString(0)+"\n");
                     buffer.append("Фамилия :"+ res.getString(2)+"\n");
                     buffer.append("Имя :"+ res.getString(1)+"\n");
+                    buffer.append("Отчество :"+ res.getString(3)+"\n");
                     buffer.append("Номер паспорта :"+ res.getString(7)+"\n");
                     buffer.append("Дата рождения :"+ res.getString(9)+"\n");
                     buffer.append("Дата внесения :"+ res.getString(10)+"\n");
